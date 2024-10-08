@@ -7,7 +7,7 @@ Código para discador automático (Asterisk) necessário API de click to call
 var enderecoToken = "endereco api"
 
 //Ramal que fará as ligações
-var ramalOperador = "819" //ramal utilizado 
+var ramalOperador = "XXXX" //ramal utilizado 
 
 //Lista de números separados por vírgulas
 listaTel = [numero,numero,numero];
